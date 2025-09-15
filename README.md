@@ -11,7 +11,9 @@ Presentation materials for posit::conf25
 
 ## re: mentoring "bingo cards"
 
-Credit to Scott and others from Tricia's team for this idea, which started as a snarky joke but stuck as a practical tool. The Academy mentor team use these as shortlists of *things to keep top of mind while mentoring* (central square: **background yourself and foreground leaners**); while the idea may seem trite, our team has found these very valuable. 
+Credit to Scott and others from Tricia's team for this idea, which started as a somewhat sweet/snarky comment in a mentor training session and turned into a practical tool. 
+
+The Academy mentor team use these as shortlists of *things to keep top of mind while mentoring* (central square: **background yourself and foreground leaners**); while the idea may seem trite, our team has found these very valuable. (Why bingo cards instead of a list? There's no reason this can't be fun...) 
 
 ## credits
 
